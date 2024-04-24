@@ -1,0 +1,10 @@
+# Java/Maven
+target/
+*.class
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store

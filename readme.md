@@ -6,8 +6,7 @@
 
 **Task 1:** GraphAlgorithms class method getBreadthFirstTraversal performs a breadth-first traversal of the graph, starting at the given origin vertex. It uses a queue to keep track of the vertices to visit next. The vertices are printed in the order they are visited.
 
-**Task 2:** GraphAlgorithms class method getDepthFirstTraversal performs a depth-first traversal of the graph, starting at the given origin vertex.
-It method uses a stack to keep track of the vertices to visit next. The vertices are printed in the order they are visited.
+**Task 2:** GraphAlgorithms class method getDepthFirstTraversal performs a depth-first traversal of the graph, starting at the given origin vertex. The method uses a stack to keep track of the vertices to visit next. The vertices are printed in the order they are visited.
 
 ## Team Javaholics ☕
 

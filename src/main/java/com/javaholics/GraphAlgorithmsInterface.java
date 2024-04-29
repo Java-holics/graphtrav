@@ -1,6 +1,11 @@
 package com.javaholics;
 
-/** An interface of methods that process an existing graph. */
+/**
+ * An interface of methods that process graphs.
+ * 
+ * @author Lindsay Kislingbury
+ * @author Lea Wiranatha
+ */
 public interface GraphAlgorithmsInterface<T> {
     /**
      * Performs a breadth-first traversal of this graph.
